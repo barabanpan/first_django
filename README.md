@@ -4,7 +4,7 @@
 1. Install PostgreSQL: [tutorial](https://www.digitalocean.com/community/tutorials/postgresql-ubuntu-16-04-ru).
 2. ```pip install -r requirements.txt```
 3. ```sudo apt-get install python3-django```
-4. Create in root folder .env file:
+4. Create in `mysite` folder .env file:
 ```
 DB_NAME=<db_name>
 DB_USER=<db_user>
